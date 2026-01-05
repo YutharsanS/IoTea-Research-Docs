@@ -40,7 +40,7 @@ This "too many cooks" situation makes it difficult to implement a unified, synch
 
 ---
 # How it aligns with SLIOT
-- **Industry 5.0 (Human-in-the-Loop & Resilient Systems):** Combines computer vision–based automation with human oversight, allowing traffic police to intervene while still leveraging data-driven decision support instead of fully replacing human judgment.
+- **Industry 5.0 (Human-in-the-Loop & Resilient Systems):** Combines computer vision–based automation with human oversight, allowing traffic police to intervene while still leveraging data-driven decision support instead of fully replacing human judgment. Also saves up time and fuel consumption if implemented correctly.
 - **AIoT (Networked Intelligence at Scale):** Uses camera-based computer vision, edge AI, and network connectivity to sense heterogeneous traffic conditions and coordinate signal timing across a wider area.
 - **SDG 3 – Good Health & Well-Being:** Reduces accident risk, stress, and exposure to vehicle emissions caused by congestion and chaotic intersections.
 - **SDG 9 – Industry, Innovation & Infrastructure:** Modernizes traffic infrastructure through AI-enabled sensing and coordinated signal management adapted to local conditions.
