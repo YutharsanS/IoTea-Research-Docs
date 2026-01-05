@@ -47,6 +47,16 @@ The system will:
 - Improves public transport safety perception
 - Can be used for insurance incentives or fleet management
 ---
+# How it aligns with SLIOT
+- **Industry 5.0 (Human-Centric & Sustainable):** Supports drivers through behavioral feedback and grading rather than automation or punishment, improving safety, accountability, and system resilience.
+- **AIoT (Artificial Intelligence of Things):** Combines onboard sensors, edge AI, and connectivity to monitor, analyze, and score real-world driving behavior in real time.
+- **SDG 3 – Good Health & Well-Being:** Reduces road accidents, injuries, and fatalities through safer driving practices.
+- **SDG 9 – Industry, Innovation & Infrastructure:** Introduces smart, data-driven transportation monitoring infrastructure.
+- **SDG 11 – Sustainable Cities & Communities:** Improves road discipline and public transport safety in urban environments.
+- **SDG 12 – Responsible Consumption:** Encourages efficient driving, reducing fuel waste and vehicle wear.
+- **SDG 13 – Climate Action:** Lowers emissions by discouraging aggressive acceleration and erratic driving.
+
+---
 # Reddit
 ""Retards on two and three wheels, occasionally more wheels, creeping up on the left on single carriagways, blind fucks who need to use high beams everywhere, complete ignorance of how to use a roundabout, pulling out in front of me and creeping along at 20kmh.""
 

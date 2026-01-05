@@ -49,3 +49,11 @@ The system is designed to be **portable, modular, and scalable**, allowing deplo
 - **Special Needs & Mental Health Care:** Environments requiring reduced sensory stimulation
 
 ---
+# How it aligns SLIOT
+- **Industry 5.0 (Human-Centric & Well-Being Focused):** Prioritizes human comfort, mental health, and recovery by creating adaptable quiet environments rather than relying on fixed, infrastructure-heavy solutions.
+- **AIoT (Adaptive Sensing & Intelligence):** Integrates microphones, signal processing, and edge intelligence to sense environmental noise and dynamically generate localized noise reduction.
+- **SDG 3 – Good Health & Well-Being:** Reduces stress, fatigue, and recovery time by minimizing harmful noise exposure in hospitals, workplaces, and care environments.
+- **SDG 9 – Industry, Innovation & Infrastructure:** Introduces portable, modular noise-control technology as an innovative alternative to traditional soundproof infrastructure.
+- **SDG 11 – Sustainable Cities & Communities:** Supports healthier urban living and working spaces by mitigating noise pollution without permanent construction.
+- **SDG 12 – Responsible Consumption & Production:** Reduces reliance on resource-intensive architectural modifications through reusable, scalable devices.
+- **SDG 13 – Climate Action:** Lowers material use and construction-related emissions by replacing permanent soundproofing with portable solutions.

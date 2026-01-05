@@ -37,3 +37,13 @@ This "too many cooks" situation makes it difficult to implement a unified, synch
 # Sources
 - https://mawratanews.lk/news/acting-igp-restores-police-authority-to-disable-traffic-lights-amid-rising-congestion-issues/#:~:text=To%20address%20rising%20traffic%20congestion,disabling%20traffic%20lights%20when%20necessary.
 - https://www.ft.lk/columns/Hidden-cost-of-traffic-lights-Colombo-s-silent-economic-burden/4-770596#:~:text=The%20Road%20Development%20Authority%20RDA,are%20performing%20at%20optimal%20levels.
+
+---
+# How it aligns with SLIOT
+- **Industry 5.0 (Human-in-the-Loop & Resilient Systems):** Combines computer vision–based automation with human oversight, allowing traffic police to intervene while still leveraging data-driven decision support instead of fully replacing human judgment.
+- **AIoT (Networked Intelligence at Scale):** Uses camera-based computer vision, edge AI, and network connectivity to sense heterogeneous traffic conditions and coordinate signal timing across a wider area.
+- **SDG 3 – Good Health & Well-Being:** Reduces accident risk, stress, and exposure to vehicle emissions caused by congestion and chaotic intersections.
+- **SDG 9 – Industry, Innovation & Infrastructure:** Modernizes traffic infrastructure through AI-enabled sensing and coordinated signal management adapted to local conditions.
+- **SDG 11 – Sustainable Cities & Communities:** Improves urban mobility efficiency and inclusivity in mixed-traffic environments common in Sri Lankan cities.
+- **SDG 12 – Responsible Resource Use:** Optimizes traffic flow to reduce fuel wastage, idle time, and unnecessary vehicle wear.
+- **SDG 13 – Climate Action:** Lowers emissions by minimizing stop-and-go traffic and prolonged congestion through adaptive signal control.
