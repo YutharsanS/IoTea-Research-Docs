@@ -1,6 +1,10 @@
 ---
 title: SLIOT Challenge 2026
 ---
+# Himala
+- [[Vehicle Grading Device for Road Discipline in Sri Lanka]]
+- [[Autonomous traffic lights]]
+- [[Quiet bubble]]
 
 Please create a new directory of Ideas and update this index file as necessary.
 
