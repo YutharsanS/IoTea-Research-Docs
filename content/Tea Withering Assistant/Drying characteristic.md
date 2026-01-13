@@ -4,7 +4,7 @@ Resource - W. S. Botheju, K. S. P. Amarathunge, and I. S. B. Abeysinghe, “Thin
 
 
 ## Purpose
----
+
 - Most suitable mathematical model to predict moisture loss - Two-term model
 -  Higher air temperatures and lower relative humidity levels effectively accelerate drying
 - Effective diffusivity and activation energy required for water to move through the leaves

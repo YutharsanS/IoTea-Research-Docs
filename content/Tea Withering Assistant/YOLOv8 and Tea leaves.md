@@ -4,7 +4,6 @@ Resource - M. Wang _et al._, “Predicting the Degree of Fresh Tea Leaves Withe
 
 
 ## Model 
----
 
 1. Capture image and moisture content in 13 time intervals
 2. Label and augment image
