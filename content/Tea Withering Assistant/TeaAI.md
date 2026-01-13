@@ -1,5 +1,6 @@
 (teaai.ai)
 *Some general info of the website and its use.*
+
 ## Market Intelligence and Analytics (TeaMate)
 ---
 • **Competitor Analysis:** Tracks market trends in tea quantity and pricing, analyzes competitor behavior, and identifies market share and growth opportunities.

@@ -1,4 +1,3 @@
-
 Resource - W. S. Botheju, K. S. P. Amarathunge, and I. S. B. Abeysinghe, “Thin layer drying characteristics of fresh tea leaves,” _unpublished_.
 
 

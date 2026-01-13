@@ -1,9 +1,8 @@
-
----
 Resource - M. Wang _et al._, “Predicting the Degree of Fresh Tea Leaves Withering Using Image Classification Confidence,” _Foods_, vol. 14, no. 7, p. 1125, Mar. 2025, doi: https://doi.org/10.3390/foods14071125.
 
 
 ## Model 
+- - -
 
 1. Capture image and moisture content in 13 time intervals
 2. Label and augment image

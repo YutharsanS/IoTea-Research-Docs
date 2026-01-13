@@ -1,6 +1,3 @@
-
----
-
 (Maybe unrelated)
 1. How to reduce electrical of withering machine - W. M. S. Weerawardena, K. S. P. Amaratunga, and W. S. Botheju, “Development of a mathematically controlled system for electrical energy saving in trough withering of tea,” _unpublished_.
 2. # Modeling Trough Withering System to Predict the Moisture Content of Tea Leaves at Real Time using One Dimensional Heat and Mass Transfer Finite Difference Model - https://dl-tri.nsf.gov.lk/items/3a565989-8154-4849-b516-5b4b97e9ec47

@@ -1,7 +1,5 @@
-
----
-
 RoHS certification ensures electrical and electronic products comply with European Union (EU) directives restricting hazardous substances like lead, mercury, and cadmium, protecting human health and the environment by limiting harmful chemicals in e-waste and during product lifecycle. While not a mandatory "certification mark," it's a compliance requirement for selling electronics in the EU and many other regions, achieved through documentation or testing to confirm products are free from restricted substances above set thresholds, notes [TÜV SÜD](https://www.tuvsud.com/en/customer-hub/ps-cert/certification-mark-for-rohs). 
+
 
 ### Key Aspects of RoHS
 ---
