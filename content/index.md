@@ -13,9 +13,11 @@ title: SLIOT Challenge 2026
 - [[Autonomous traffic lights]] - Himala
 - [[Quiet Bubble]] - Himala
 
+
 # Evaluation Criteria
 ## Proposal Submission
 ![[Proposal Evaluation Criteria.png]]
 ## Video Submission
 
 ![[Video Evaluation Criteria.png]]
+
