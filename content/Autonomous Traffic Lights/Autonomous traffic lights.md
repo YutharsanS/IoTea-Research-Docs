@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 - A system of traffic lights with computer vision and connected to a network to manage the flow across a larger area.
 
 ---

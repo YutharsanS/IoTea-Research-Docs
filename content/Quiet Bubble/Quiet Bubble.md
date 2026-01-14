@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ### 1. Introduction
 
 Noise pollution is a growing concern in modern environments, particularly in hospitals, industrial workplaces, and urban settings. Continuous exposure to unwanted sound negatively affects concentration, productivity, recovery, and mental well-being. Traditional solutions such as soundproof rooms are effective but lack portability and flexibility.
