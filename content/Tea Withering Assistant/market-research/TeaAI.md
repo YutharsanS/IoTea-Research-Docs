@@ -26,3 +26,6 @@
 • The system is designed to process information without TeaAI having access to the raw data or the user's specific quality standards.
 
 • Comprehensive user management, allowing organizations to create individual accounts with role-based access and permissions.
+
+# Major Audience
+Major audiences for `Teaai.ai` and their operations are the people who distribute and selling tea to consumers. 
