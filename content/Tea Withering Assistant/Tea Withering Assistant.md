@@ -1,3 +1,8 @@
+# Progress
+
+- [[13-01-2026 Tea Withering Assistant]]
+
+# Initial Proposal
 A *decision making* assistant to help with **perfect withering** i.e., an AIoT system that assists factory technicians in deciding when and how to wither, rather than automating the process blindly.
 
 ## Tea in Sri Lanka
@@ -55,3 +60,6 @@ Proposed components could be:
 ---
 1. The Science of Ceylon Tea - Orthodox Vs CTC Manufacture | Sri Lanka [Destination SRI LANKA](https://www.youtube.com/@DestinationSriLanka) ^ref1
 2. Ceylon Tea - Manufacturing Process [Winson Films](https://www.youtube.com/@WinsonFilms)  ^ref2
+
+
+
