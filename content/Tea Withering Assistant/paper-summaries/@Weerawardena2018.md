@@ -5,6 +5,10 @@ aliases:
   - "Development of a Mathematical Procedure for Controlling\rAir Flow Rate in Tea Withering"
 url: http://www.pgia.ac.lk/files/Annual_congress/journel/v30/Journal_No_4/Papers/W.M.S.Weerawarden.pdf
 tags:
+  - VSD
+  - energy-consumption
+  - botheju
+  - tea-withering
 ---
 Withering "consumes about 49% of total electrical energy in the Up country tea factories and about 61% of total electrical energy in the Low-country tea factories" according to their research. 
 
