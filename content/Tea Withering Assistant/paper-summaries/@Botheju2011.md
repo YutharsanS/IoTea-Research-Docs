@@ -9,6 +9,7 @@ tags:
   - srilankan-tea
   - efficient-method
   - math-model
+  - botheju
 ---
 ## Purpose
 ---
@@ -25,3 +26,7 @@ tags:
 > Temple et al. (2000) reported that a single falling rate period was enough to describe the whole process of tea. However, using some industrial equipment a constant rate period could be observed due to limited evaporative capacity of the air. In such cases, constant rate period was a property of air supply rather than a drying property of the material
 
 Probably an improved version of [[@Botheju2010|Modeling Trough Withering System to Predict the Moisture Content of Tea Leaves at Real Time using One Dimensional Heat and Mass Transfer Finite Difference Model]].
+
+---
+
+The "Temperature Indicator Alarming Unit" patented by W.S. Botheju and H.D. Hemantha in 2005 is mentioned in [National Intellectual Property Office of Sri Lanka](https://www.nipo.gov.lk/), but the device specifications are not found. (Might not even be related here.)
