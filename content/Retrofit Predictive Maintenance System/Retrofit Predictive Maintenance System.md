@@ -1,4 +1,7 @@
-- - -
+---
+draft: true
+---
+
 The idea is to make a **decision support system** to empower the technicians to detect anomalies and machine failures prior. Something that's retrofit, meaning it supports industry 5.0 through **human centric automation** and **resilience and sustainability** . 
 
 Targettable sectors are garments and other industries, building something affordable is very important if we are targeting SME(Small Medium Enterprises), but how much market share these SME makes up in Sri Lankan context is not known for certain but AI supported research suggests that SME don't make up that much of production compared to large companies. 

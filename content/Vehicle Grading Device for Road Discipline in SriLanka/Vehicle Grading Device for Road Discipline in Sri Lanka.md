@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ### 1. Introduction
 
 Road safety and driving discipline in Sri Lanka remain major concerns, particularly due to lane violations, improper use of headlights, unsafe overtaking, roundabout misuse, and inconsistent speed behavior. Public and private vehicles—especially buses operating under revenue-driven incentive structures—often exhibit risky driving patterns that negatively impact overall traffic safety and public trust.
