@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 A system to **assist** (Industry 5.0) in worker's **safety** (SDG goals) while working on risky industrial environments.
 
 Target Sectors: Apparel Manufacturing, Construction, Chemical Processing
