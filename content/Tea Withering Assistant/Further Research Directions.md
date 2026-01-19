@@ -17,3 +17,5 @@ These papers might be needed later on for the research.
 7. Tea withering + iot - https://sci-hub.ru/match/tea-withering+iot
 
 8. tea plucking classification - https://dl.lib.uom.lk/items/75b0ea81-7e76-4037-9656-9acc71ecb3ad  (waiting for access)
+
+9. tea withering - https://sci-hub.ru/10.1063/1.4984654
