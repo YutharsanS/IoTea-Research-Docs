@@ -15,3 +15,5 @@ These papers might be needed later on for the research.
 6. Control system of Tea warehouse - https://sci-hub.ru/10.1145/3148453.3306251 (Iot system control and **storage** too.)
 
 7. Tea withering + iot - https://sci-hub.ru/match/tea-withering+iot
+
+8. tea plucking classification - https://dl.lib.uom.lk/items/75b0ea81-7e76-4037-9656-9acc71ecb3ad  (waiting for access)
