@@ -12,4 +12,4 @@ Might be an improved version of above (same authors and same topic, but differen
 > [!trouble]  Does not say which tea leaves were used for testing unlike in "Modeling Trough Withering System"
 
 
-[[@Weerawardena2018|Development of a Mathematical Procedure for Controlling Air Flow Rate in Tea Withering]] seems to have actually implemented an ==**IoT solution== to control heat flow rate**. They used a *Raspberry Pi 3 model B* to run the mathematical model and reduced the amount of energy used in factories considerably for withering.
+[[@Weerawardena2018|Development of a Mathematical Procedure for Controlling Air Flow Rate in Tea Withering]] seems to have actually implemented an **==IoT solution== to control heat flow rate**. They used a *Raspberry Pi 3 model B* to run the mathematical model and reduced the amount of energy used in factories considerably for withering.
