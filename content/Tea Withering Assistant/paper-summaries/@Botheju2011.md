@@ -3,7 +3,7 @@ type: journal-article
 status: first-pass
 aliases:
   - Thin layer drying characteristics of fresh tea leaves
-url: https://jnsfsl.sljol.info/articles/10.4038/jnsfsr.v39i1.2927
+url: https://doi.org/10.4038/jnsfsr.v39i1.2927
 tags:
   - tea-withering
   - srilankan-tea

@@ -3,7 +3,7 @@ type: journal-article
 status: first-pass
 aliases:
   - "Intelligent Monitoring System of Pu’er Tea  \rWarehouse Based on IoT"
-url: https://sci-hub.ru/10.1145/3148453.3306251
+url: https://doi.org/10.1145/3148453.3306251
 tags:
   - china-tea
   - tea-storing
@@ -19,6 +19,8 @@ Tested in a real-world - Yunnan Diwei Avenue Tea Co., Ltd., demonstrating high s
 ---
 - **Pre-existing Gaps:** Traditional remote environmental monitoring systems lacked strong anti-interference abilities and adaptability and control different heterogeneous devices simultaneously within a single network.
 - **Remaining Gaps:** No edge computing? Currently, data processing relies on the central gateway and cloud, but the author says about it being intelligent.
+
+>Edge processing solves a lot of traditional problems like sensor noises and anomalies, and network bottlenecks.
 
 ### Flow
 ---

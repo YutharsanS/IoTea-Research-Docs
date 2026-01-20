@@ -3,7 +3,7 @@ type: journal-article
 status: first-pass
 aliases:
   - "A Microcontroller-Based Monitoring System \rfor Batch Tea Dryer"
-url: https://sci-hub.ru/10.5539/jas.v1n2p101
+url: https://doi.org/10.5539/jas.v1n2p101
 tags:
   - tea-withering
   - black-tea

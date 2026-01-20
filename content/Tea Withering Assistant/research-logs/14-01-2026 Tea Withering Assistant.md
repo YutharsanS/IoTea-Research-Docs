@@ -1,5 +1,5 @@
 
-[[@Botheju2010|Modeling Trough Withering System to Predict the Moisture Content of Tea Leaves at Real Time using One Dimensional Heat and Mass Transfer Finite Difference Model]] is about a mathematical model that predicts the moisture content. They used **finite difference methods** and **layered simulation** (see further explanations in paper summary) and the results of the predictions were tested with 800kg of tea and proved.
+[[@Botheju2010|Simulation of Trough Withering of Tea using One Dimensional Heat and Mass Transfer Finite Difference Model]] is about a mathematical model that predicts the moisture content. They used **finite difference methods** and **layered simulation** (see further explanations in paper summary) and the results of the predictions were tested with 800kg of tea and proved.
 
 > [!warning] Model assumptions
 > There were many assumptions taken for the model:

@@ -3,8 +3,10 @@ type: journal-article
 status: first-pass
 aliases:
   - "IoT based Smart Tea leaves Plucker with Two \rRevolute type Planar Manipulator"
-url: https://sci-hub.ru/10.1109/sceecs.2018.8546942
+url: https://doi.org/10.1109/SCEECS.2018.8546942
 tags:
+  - tea-plucking
+  - robot-arm
 ---
 ### Summary
 ---
