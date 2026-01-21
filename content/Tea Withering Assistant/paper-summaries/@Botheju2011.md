@@ -3,7 +3,7 @@ type: journal-article
 status: first-pass
 aliases:
   - Thin layer drying characteristics of fresh tea leaves
-url: https://jnsfsl.sljol.info/articles/10.4038/jnsfsr.v39i1.2927
+url: https://doi.org/10.4038/jnsfsr.v39i1.2927
 tags:
   - tea-withering
   - srilankan-tea
@@ -38,7 +38,7 @@ tags:
 
 #### Limitations
 * **Thin instead of Thick Bed:** A thin layer eliminates the effects of leaf compaction and air temperature/humidity changes that occur as air passes through a thick bed in a commercial trough.
-* **Equipment Capacity:** The constant rate period *might be* a limitation of the ==**air supply's evaporative capacity**== rather than a property of the tea leaf itself.
+* **Equipment Capacity:** The constant rate period *might be* a limitation of the **==air supply's evaporative capacity==** rather than a property of the tea leaf itself.
 
 > [!quote] Industrial machines are not that better??
 > Temple et al. (2000) reported that a single falling rate period was enough to describe the whole process of tea. However, using some industrial equipment a constant rate period could be observed due to limited evaporative capacity of the air. In such cases, constant rate period was a property of air supply rather than a drying property of the material.

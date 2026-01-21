@@ -2,8 +2,8 @@
 type: journal-article
 status: first-pass
 aliases:
-  - Modeling Trough Withering System to Predict the Moisture Content of Tea Leaves at Real Time using One Dimensional Heat and Mass Transfer Finite Difference Model
-url: https://dl-tri.nsf.gov.lk/items/3a565989-8154-4849-b516-5b4b97e9ec47
+  - Simulation of Trough Withering of Tea using One Dimensional Heat and Mass Transfer Finite Difference Model
+url: https://doi.org/10.4038/TAR.V22I3.3701
 tags:
   - math-model
   - tea-withering

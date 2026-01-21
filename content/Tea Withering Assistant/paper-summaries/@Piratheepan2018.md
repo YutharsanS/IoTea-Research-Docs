@@ -9,4 +9,13 @@ tags:
   - tea-withering
   - far-IR-withering
 ---
-Published from Uva Wellassa University.
+- Published from Uva Wellassa University.
+
+- Research in saving energy by heating using **==Far-IR==**. They seemed to have used a DHT22 sensor for measuring temperature and RH and got the results, but the results just mentioned as values in the abstract.
+
+- Probably only an abstract was published on the project.
+	No graphs of results, just some values.
+
+> [!error]
+> This would not be any use as an abstract. So this will be commented out in the main page.
+

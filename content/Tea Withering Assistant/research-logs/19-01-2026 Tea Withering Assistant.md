@@ -1,4 +1,4 @@
-[[@BingZhou2018|Intelligent Monitoring System of Pu’er Tea  Warehouse Based on IoT]] is based on storing of (Chinese) tea using IoT (with disadvantages of traditional methods). This **assists** workers ==**remotely**== to monitor tea.
+[[@BingZhou2018|Intelligent Monitoring System of Pu’er Tea  Warehouse Based on IoT]] is based on storing of (Chinese) tea using IoT (with disadvantages of traditional methods). This **assists** workers **==remotely==** to monitor tea.
 
 
 [[@Marjan2009|A Microcontroller-Based Monitoring System for Batch Tea Dryer]] is about an automated tea-dryer according to the moisture content, which we thought was a **novel** idea. Seems to have been researched in 2009. But, the research is about reducing moisture content greatly from 68% to 3% (normally done from 68% to 55% at most in SL), which might be **the method** in Malaysia.
