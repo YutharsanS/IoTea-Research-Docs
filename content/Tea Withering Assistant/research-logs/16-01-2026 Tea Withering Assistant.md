@@ -7,7 +7,7 @@ There are some other pathways we can follow in making withering effective.
 > Not sure if Industry 5.0 !!
 
 2. Decision making on when to stop the machine while continuously monitoring the **moisture content**/ controlling **temp**.
-3. Possibly can't do anything in Plucking because I could only find *automation*.
+3. Tea Plucking (I mostly found related to *automation*).
 
 ## Terms
 ---

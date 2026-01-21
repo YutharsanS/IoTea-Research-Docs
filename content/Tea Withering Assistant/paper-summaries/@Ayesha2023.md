@@ -9,3 +9,10 @@ tags:
   - sustainability
   - srilankan-tea
 ---
+### My Conclusion
+---
+As mentioned in main page, just mentions that IoT solutions would improve the production, and that most cost spent is on labor (**according to their survey**).
+
+Does not mention on how it can be improved using IoT.
+
+> Possibly not required on additional research on the paper itself.
