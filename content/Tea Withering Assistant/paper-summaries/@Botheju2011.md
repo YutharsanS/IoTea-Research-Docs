@@ -37,7 +37,7 @@ tags:
 4. **Analysis:** Experimental moisture ratios are fitted to the Two-term model using non-linear regression.
 
 #### Limitations
-* **Thin instead of Thick Bed:** A thin layer eliminates the effects of leaf compaction and air temperature/humidity changes that occur as air passes through a thick bed in a commercial trough.
+* **Thin instead of Thick Bed:** A thin layer eliminates the effects of leaf compaction and air temperature/humidity changes that occur as air passes through a thick bed in a commercial trough, but thick bed has not been tested.
 * **Equipment Capacity:** The constant rate period *might be* a limitation of the **==air supply's evaporative capacity==** rather than a property of the tea leaf itself.
 
 > [!quote] Industrial machines are not that better??
