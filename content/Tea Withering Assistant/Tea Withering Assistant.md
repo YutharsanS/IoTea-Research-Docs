@@ -44,7 +44,7 @@ Withering decisions are made based on:
 To: 
 	Save energy and prevent wastage of tea leaves (SDG goals)
 
-Focuses on **Vapor Pressure Deficit (VPD)**, an indicator of the air’s capacity to remove moisture from tea leaves, combined with airflow **and** weight-based (for additional accuracy in moisture content) feedback. This system will be placed inside the **existing** machine.
+Focuses on **[[Vapor Pressure Deficit]] (VPD)**, an indicator of the air’s capacity to remove moisture from tea leaves, combined with airflow **and** weight-based (for additional accuracy in moisture content) feedback. This system will be placed inside the **existing** machine.
 
 Proposed components could be:
 - MCU and AI – VPD computation and Estimated moisture loss
