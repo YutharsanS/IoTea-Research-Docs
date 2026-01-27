@@ -1,4 +1,23 @@
-Pictures in the attachments folder named as Session1.n - numbered in order.
+![[Session1.0.jpeg]]
+![[Session1.1.jpeg]]
+![[Session1.2.jpeg]]
+![[Session1.3.jpeg]]
+![[Session1.4.jpeg]]
+![[Session1.5.jpeg]]
+![[Session1.6.jpeg]]
+![[Session1.7.jpeg]]
+![[Session1.8.jpeg]]
+![[Session1.9.jpeg]]
+![[Session1.10.jpeg]]
+![[Session1.11.jpeg]]
+![[Session1.12.jpeg]]
+![[Session1.13.jpeg]]
+![[Session1.14.jpeg]]
+![[Session1.15CaseStudy.jpeg]]
+![[Session1.16CaseSolution.jpeg]]
+![[Session1.17.jpeg]]
+![[Session1.18.jpeg]]
+
 
 ### Extra notes
 
