@@ -18,6 +18,7 @@
 ![[Session1.17.jpeg]]
 ![[Session1.18.jpeg]]
 
+
 ### Extra notes
 
 - Factory - dust vibration

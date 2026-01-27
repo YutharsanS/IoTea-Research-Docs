@@ -11,7 +11,7 @@ tags:
 ---
 ### Summary
 ---
-The research addresses critical challenges in the storage of Pu’er tea, where traditional methods suffer from **inadequate manual supervision**, poor anti-interference capabilities in remote monitoring, and an inability to access different types of devices simultaneously.
+The research addresses critical challenges in the storage of Pu’er tea (Tea is stored after production in China - like wine aging), where traditional methods suffer from **inadequate manual supervision**, poor anti-interference capabilities in remote monitoring, and an inability to access different types of devices simultaneously.
 
 Tested in a real-world - Yunnan Diwei Avenue Tea Co., Ltd., demonstrating high stability with a data loss rate of only 0.08%. It achieved high accuracy, with average errors of only 0.53°C for temperature and 1.02 RH% for humidity when compared to standard recording equipment.
 
