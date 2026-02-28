@@ -21,3 +21,9 @@ title: SLIOT Challenge 2026
 
 ![[Video Evaluation Criteria.png]]
 
+
+# Selected Idea
+
+- Tea-Withering Assistant - [[Initial Proposal]]
+- [[Initial Architecture]]
+- [[Demo - Initial Architecture - 2026-02-27]]
