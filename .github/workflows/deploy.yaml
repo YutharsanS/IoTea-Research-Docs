@@ -87,4 +87,4 @@ jobs:
           
           # Upload and Deploy
           curl -H "Content-Type: application/zip" -T dev-site.zip "$UPLOAD_URL"
-          aws amplify start-deployment --app-id $APP_ID --branch-name dev --job-id $JOB_ID
+          aws amplify start-deployment --app-id $APP_ID --branch-name staging --job-id $JOB_ID
