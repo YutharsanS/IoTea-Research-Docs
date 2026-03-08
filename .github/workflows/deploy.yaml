@@ -78,7 +78,7 @@ jobs:
           APP_ID: ${{ secrets.AMPLIFY_APP_ID }}
         run: |
           # Request upload URL
-          RES=$(aws amplify create-deployment --app-id $APP_ID --branch-name dev)
+          RES=$(aws amplify create-deployment --app-id $APP_ID --branch-name staging)
           UPLOAD_URL=$(echo $RES | jq -r '.zipUploadUrl')
           JOB_ID=$(echo $RES | jq -r '.jobId')
           
