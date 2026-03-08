@@ -17,7 +17,9 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "build-dev": "npx quartz build --serve",
+    "build-prod": "cross-env BUILD_ENV=prod npx quartz build --serve"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -106,6 +108,7 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
+    "cross-env": "^10.1.0",
     "esbuild": "^0.27.3",
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",

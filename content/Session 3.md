@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Challenges while building a product
 
 1. Validate the business case before building - ==Validate problem==
