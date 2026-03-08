@@ -40,7 +40,7 @@ jobs:
  
   deploy-public:
     needs: build-public
-    if: github.ref == 'refs/head/v4'
+    if: github.ref == 'refs/heads/v4'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -51,7 +51,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
   deploy-private:
-    if: github.ref == 'refs/head/v4'
+    if: github.ref == 'refs/heads/v4'
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v6
