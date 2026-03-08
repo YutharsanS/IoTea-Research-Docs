@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { BUILD_ENV } from "./quartz.env"
+import { QuartzFilterPluginInstance } from "./quartz/plugins/types"
 
 /**
  * Quartz 4 Configuration
@@ -73,7 +75,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts(), Plugin.RemoveInternals()],
+    filters: [Plugin.RemoveDrafts(),
+      // ! Not included in production 
+      BUILD_ENV === "prod" ? Plugin.RemoveInternals() : null
+    ].filter(Boolean) as QuartzFilterPluginInstance[],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
