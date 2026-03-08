@@ -1,5 +1,5 @@
 ---
-internal: true
+draft: true
 ---
 
 ## Challenges while building a product
