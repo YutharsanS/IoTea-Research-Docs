@@ -1,5 +1,5 @@
 ---
-draft: true
+internal: true
 ---
 # Product features
 

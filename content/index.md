@@ -15,11 +15,11 @@ title: Tea-Withering Assistant Documentation
 - [[Quiet Bubble]] - Himala -->
 
 
-<!-- # Evaluation Criteria
+# Evaluation Criteria
 ## Proposal Submission
 ![[Proposal Evaluation Criteria.png]]
 ## Video Submission
-![[Video Evaluation Criteria.png]] -->
+![[Video Evaluation Criteria.png]]
 
 
 # Selected Idea
