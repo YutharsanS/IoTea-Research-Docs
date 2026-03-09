@@ -1,3 +1,6 @@
+---
+internal: true
+---
 # Product features
 
 ## Could have?

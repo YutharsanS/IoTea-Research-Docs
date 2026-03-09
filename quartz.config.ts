@@ -10,7 +10,7 @@ import { QuartzFilterPluginInstance } from "./quartz/plugins/types"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SLIOT 2026 📡",
+    pageTitle: "Tea-Withering Assistant",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "node_modules", "Sessions - 2026/*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

@@ -1,3 +1,6 @@
+---
+internal: true
+---
 ![[Session1.0.jpeg]]
 ![[Session1.1.jpeg]]
 ![[Session1.2.jpeg]]
