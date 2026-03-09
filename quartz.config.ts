@@ -19,7 +19,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "node_modules", "Sessions - 2026/*"],
+    ignorePatterns: [
+      "private", 
+      "templates", 
+      ".obsidian", 
+      "node_modules", 
+      //! Not included in the production
+      BUILD_ENV == "prod" ? "Sessions - 2026/*" : null
+    ].filter(Boolean) as string[],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
