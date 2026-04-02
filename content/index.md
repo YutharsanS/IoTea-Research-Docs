@@ -27,3 +27,17 @@ title: Tea-Withering Assistant Documentation
 - Tea-Withering Assistant - [[Initial Proposal]]
 - [[Initial Architecture]]
 - [[Demo - Initial Architecture - 2026-02-27]]
+
+
+### Abstract Flow Diagram
+
+![[AbstractFlow diagram.png]]
+
+### Development Roadmap
+
+![[Timeline.png]]
+
+### Business plan
+
+![[BusinessPlan.png]]
+
